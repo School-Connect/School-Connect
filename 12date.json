@@ -8,7 +8,8 @@
         "Category": "calendar",
         "button": "カレンダーに追加",
         "about": "カレンダーに時間割を登録できます。",
-        "bug": ""
+        "bug": "",
+        "image": "calendar.circle.fill"
     },
     {
         "id": 1,
@@ -20,5 +21,6 @@
         "button": "カレンダーに追加",
         "about": "カレンダーに時間割を登録できます。",
         "bug": ""
+        "image": "star.circle.fill"
     }
 ]
