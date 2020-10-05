@@ -1,6 +1,18 @@
 [
     {
         "id": 0,
+        "name": "School Connect",
+        "day": "10月3日",
+        "by": "管理者",
+        "summary": "itms-services://?action=download-manifest&url=https://school-connect.github.io/School-Connect/manifest.plist",
+        "Category": "app",
+        "button": "アップデート",
+        "about": "School Connect1.0",
+        "bug": "",
+        "image": "flag.circle.fill"
+    },
+    {
+        "id": 0,
         "name": "1年時間割",
         "day": "10月3日",
         "by": "管理者",
@@ -10,17 +22,5 @@
         "about": "カレンダーに時間割を登録できます。",
         "bug": "",
         "image": "calendar.circle.fill"
-    },
-    {
-        "id": 1,
-        "name": "MyMaps",
-        "day": "10月3日",
-        "by": "管理者",
-        "summary": "itms-services://?action=download-manifest&url=https://school-connect.github.io/School-Connect/manifest.plist",
-        "Category": "app",
-        "button": "インストール",
-        "about": "開発中",
-        "bug": "",
-        "image": "flag.circle.fill"
     }
 ]
