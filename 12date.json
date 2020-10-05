@@ -13,14 +13,14 @@
     },
     {
         "id": 1,
-        "name": "2年時間割",
+        "name": "MyMaps",
         "day": "10月3日",
         "by": "管理者",
         "summary": "webcal://p28-caldav.icloud.com/published/2/MTYxOTIwMjg0MzQxNjE5MlP6UR8xysfGr3QBQDgSfxC8q54TTL-z_lOQpiH5CkMAKNx0jptFgnpzd8TCAfWGVMOcIIoy6ISzVHXRhoXxrNc",
-        "Category": "calendar",
-        "button": "カレンダーに追加",
-        "about": "カレンダーに時間割を登録できます。",
+        "Category": "app",
+        "button": "インストール",
+        "about": "開発中",
         "bug": "",
-        "image": "star.circle.fill"
+        "image": "flag.circle.fill"
     }
 ]
