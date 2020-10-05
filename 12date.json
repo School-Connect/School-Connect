@@ -5,7 +5,7 @@
         "day": "10月3日",
         "by": "管理者",
         "summary": "itms-services://?action=download-manifest&url=https://school-connect.github.io/School-Connect/manifest.plist",
-        "Category": "app",
+        "Category": "rootapp",
         "button": "アップデート",
         "about": "School Connect1.0",
         "bug": "",
