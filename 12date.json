@@ -1,6 +1,16 @@
-[
-    {
+[{
         "id": 0,
+        "name": "テスト",
+        "day": "10月11日",
+        "by": "管理者",
+        "summary": "http://www.apple.com/jp/safari/",
+        "Category": "none",
+        "button": "開く",
+        "about": "テスト",
+        "bug": "テスト",
+        "image": "flag.circle.fill"
+    },{
+        "id": 1,
         "name": "1年時間割",
         "day": "10月3日",
         "by": "管理者",
@@ -10,16 +20,5 @@
         "about": "カレンダーに時間割を登録できます。",
         "bug": "",
         "image": "calendar.circle.fill"
-    },{
-        "id": 1,
-        "name": "テスト",
-        "day": "10月11日",
-        "by": "管理者",
-        "summary": "http://www.apple.com/jp/safari/",
-        "Category": "none",
-        "button": "開く",
-        "about": "テスト",
-        "bug": "",
-        "image": "flag.circle.fill"
     }
 ]
